@@ -1,0 +1,15 @@
+body {
+	font-size:18px;
+}
+
+h1 {
+	color:red;
+}
+
+h2 {
+	color:blue;
+}
+
+table tr td {
+	border:1px solid black;
+}
